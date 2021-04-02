@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd8f24df-d481-44a7-895d-e7aa9b00a1ce" name="Default" comment="" />
+    <list default="true" id="cd8f24df-d481-44a7-895d-e7aa9b00a1ce" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/fruits.iml" afterPath="$PROJECT_DIR$/.idea/verstka_2.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/beginner-gulp/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
-              <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="18" selection-end-column="13" />
+              <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="18" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -53,8 +57,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+            <state relative-caret-position="509">
+              <caret line="33" column="46" lean-forward="true" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -116,11 +120,6 @@
             <path>
               <item name="verstka_2" type="b2602c69:ProjectViewProjectNode" />
               <item name="verstka_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="verstka_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="verstka_2" type="462c0819:PsiDirectoryNode" />
-              <item name="beginner-gulp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,12 +192,12 @@
       <workItem from="1617340998994" duration="620000" />
       <workItem from="1617352698483" duration="1717000" />
       <workItem from="1617354657768" duration="1669000" />
-      <workItem from="1617361679905" duration="239000" />
+      <workItem from="1617361679905" duration="904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37810000" />
+    <option name="totallyTimeSpent" value="38475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3232" height="1732" extended-state="6" />
@@ -722,15 +721,15 @@
     <entry file="file://$PROJECT_DIR$/beginner-gulp/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="18" selection-end-column="13" />
+          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="18" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        <state relative-caret-position="509">
+          <caret line="33" column="46" lean-forward="true" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
           <folding>
             <element signature="n#style#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
           </folding>
